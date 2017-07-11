@@ -1,0 +1,4 @@
+[gerrit]
+host=review.tbscg.net
+port=29418
+project=tbscg-test/puppet-jenkins.git
